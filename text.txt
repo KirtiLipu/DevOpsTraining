@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Hello World!
 This text file is for the testing purpose.
 This file doesn't have content any useful information.
+=======
+This is the first github file.
+>>>>>>> main

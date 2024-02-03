@@ -7,9 +7,10 @@ A. Amazon S3
 B. Amazon RDS
 C. Amazon CloudFront
 D. Elastic Load Balancer (ELB)
-
-Answer:
-D. Elastic Load Balancer (ELB)
+<details>
+  <summary>Answer</summary>
+  D. Elastic Load Balancer (ELB)
+</details>
 Scenario 2: Security and Compliance
 
 Question:
@@ -19,9 +20,10 @@ A. AWS Key Management Service (KMS)
 B. Amazon Redshift
 C. AWS Identity and Access Management (IAM)
 D. AWS Certificate Manager (ACM)
-
-Answer:
-A. AWS Key Management Service (KMS)
+<details>
+  <summary>Answer</summary>
+  A. AWS Key Management Service (KMS)
+</details>
 Scenario 3: Serverless Application Deployment
 
 Question:
@@ -31,9 +33,10 @@ A. AWS CloudFormation
 B. AWS Elastic Beanstalk
 C. AWS Lambda Console
 D. AWS SAM (Serverless Application Model)
-
-Answer:
-A. AWS CloudFormation
+<details>
+  <summary>Answer</summary>
+  A. AWS CloudFormation
+</details>
 Scenario 4: Container Orchestration
 
 Question:
@@ -43,9 +46,10 @@ A. Amazon ECS (Elastic Container Service)
 B. Amazon EKS (Elastic Kubernetes Service)
 C. AWS Lambda
 D. AWS Elastic Beanstalk
-
-Answer:
-B. Amazon EKS (Elastic Kubernetes Service)
+<details>
+  <summary>Answer</summary>
+  B. Amazon EKS (Elastic Kubernetes Service)
+</details>
 Scenario 5: Global Content Delivery
 
 Question:
@@ -55,9 +59,10 @@ A. Amazon S3
 B. AWS CloudFront
 C. Amazon Route 53
 D. AWS Global Accelerator
-
-Answer:
-B. AWS CloudFront
+<details>
+  <summary>Answer</summary>
+  B. AWS CloudFront
+</details>
 Scenario 6: Cost Optimization
 
 Question:
@@ -67,10 +72,10 @@ A. On-Demand Instances
 B. Spot Instances
 C. Reserved Instances
 D. Pay-as-you-go
-
-Answer:
-C. Reserved Instances
-
+<details>
+  <summary>Answer</summary>
+  C. Reserved Instances
+</details>
 Scenario 7: Disaster Recovery
 
 Question:
@@ -80,9 +85,10 @@ A. AWS Direct Connect
 B. Amazon Route 53
 C. AWS Disaster Recovery Service
 D. AWS CloudFormation
-
-Answer:
-D. AWS CloudFormation
+<details>
+  <summary>Answer</summary>
+  D. AWS CloudFormation
+</details>
 Scenario 8: Monitoring and Logging
 
 Question:
@@ -92,9 +98,10 @@ A. AWS CloudTrail
 B. Amazon CloudWatch
 C. AWS Config
 D. Amazon Elasticsearch
-
-Answer:
-B. Amazon CloudWatch
+<details>
+  <summary>Answer</summary>
+  B. Amazon CloudWatch
+</details>
 Scenario 9: Identity and Access Management
 
 Question:
@@ -104,9 +111,10 @@ A. AWS Identity and Access Management (IAM)
 B. AWS Security Token Service (STS)
 C. Amazon Cognito
 D. AWS Directory Service
-
-Answer:
-B. AWS Security Token Service (STS)
+<details>
+  <summary>Answer</summary>
+  B. AWS Security Token Service (STS)
+</details>
 Scenario 10: Big Data and Analytics
 
 Question:
@@ -116,9 +124,10 @@ A. Amazon Redshift
 B. Amazon RDS
 C. Amazon Athena
 D. Amazon EMR
-
-Answer:
-C. Amazon Athena
+<details>
+  <summary>Answer</summary>
+  C. Amazon Athena
+</details>
 Scenario 11: Hybrid Cloud
 
 Question:
@@ -128,9 +137,10 @@ A. AWS Direct Connect
 B. AWS VPN
 C. Amazon VPC Peering
 D. AWS Snowball
-
-Answer:
-A. AWS Direct Connect
+<details>
+  <summary>Answer</summary>
+  A. AWS Direct Connect
+</details>
 Scenario 12: DevOps and Continuous Integration/Continuous Deployment (CI/CD)
 
 Question:
@@ -140,10 +150,10 @@ A. AWS CodeBuild
 B. AWS CodeDeploy
 C. AWS CodePipeline
 D. AWS CodeCommit
-
-Answer:
-C. AWS CodePipeline
-
+<details>
+  <summary>Answer</summary>
+  C. AWS CodePipeline
+</details>
 Scenario 13: Resource Scaling
 
 Question:
@@ -153,9 +163,10 @@ A. Amazon EC2 Auto Scaling
 B. AWS Elastic Beanstalk
 C. AWS Lambda
 D. Amazon RDS Read Replicas
-
-Answer:
-A. Amazon EC2 Auto Scaling
+<details>
+  <summary>Answer</summary>
+  A. Amazon EC2 Auto Scaling
+</details>
 Scenario 14: High-Performance Computing
 
 Question:
@@ -165,9 +176,10 @@ A. Amazon S3
 B. AWS Batch
 C. Amazon Redshift
 D. Amazon EC2 Spot Instances
-
-Answer:
-B. AWS Batch
+<details>
+  <summary>Answer</summary>
+  B. AWS Batch
+</details>
 Scenario 15: Multi-Region Architecture
 
 Question:
@@ -177,9 +189,10 @@ A. Use Amazon RDS for cross-region data replication.
 B. Utilize AWS Global Accelerator for centralized traffic management.
 C. Implement Amazon Route 53 with latency-based routing.
 D. Use AWS Direct Connect for dedicated network connections between regions.
-
-Answer:
-C. Implement Amazon Route 53 with latency-based routing.
+<details>
+  <summary>Answer</summary>
+  C. Implement Amazon Route 53 with latency-based routing.
+</details>
 Scenario 16: Cost Management
 
 Question:
@@ -189,9 +202,10 @@ A. Implementing On-Demand Instances for consistent performance.
 B. Leveraging AWS Budgets to set cost thresholds.
 C. Using Reserved Instances with a three-year term.
 D. Utilizing AWS Free Tier resources exclusively.
-
-Answer:
-B. Leveraging AWS Budgets to set cost thresholds.
+<details>
+  <summary>Answer</summary>
+  B. Leveraging AWS Budgets to set cost thresholds.
+</details>
 Scenario 17: Security Best Practices
 
 Question:
@@ -201,9 +215,10 @@ A. AWS Identity and Access Management (IAM)
 B. AWS Single Sign-On (SSO)
 C. AWS Security Token Service (STS)
 D. AWS Key Management Service (KMS)
-
-Answer:
-C. AWS Security Token Service (STS)
+<details>
+  <summary>Answer</summary>
+  C. AWS Security Token Service (STS)
+</details>
 Scenario 18: CloudFormation Stacks
 
 Question:
@@ -213,10 +228,10 @@ A. Use the AWS Management Console to manually update each resource.
 B. Create a new stack and delete the old stack once the new one is verified.
 C. Update the CloudFormation template directly and execute an update stack operation.
 D. Temporarily pause the stack to prevent changes during the update process.
-
-Answer:
-C. Update the CloudFormation template directly and execute an update stack operation.
-
+<details>
+  <summary>Answer</summary>
+  C. Update the CloudFormation template directly and execute an update stack operation.
+</details>
 Scenario 19: Serverless Architecture
 
 Question:
@@ -226,9 +241,10 @@ A. Amazon SQS
 B. AWS Lambda
 C. Amazon Kinesis
 D. AWS Fargate
-
-Answer:
-B. AWS Lambda
+<details>
+  <summary>Answer</summary>
+  B. AWS Lambda
+</details>
 Scenario 20: Data Storage and Querying
 
 Question:
@@ -238,9 +254,10 @@ A. Amazon RDS
 B. Amazon DynamoDB
 C. Amazon Redshift
 D. Amazon ElastiCache
-
-Answer:
-C. Amazon Redshift
+<details>
+  <summary>Answer</summary>
+  C. Amazon Redshift
+</details>
 Scenario 21: IoT Integration
 
 Question:
@@ -250,9 +267,10 @@ A. AWS Lambda
 B. AWS IoT Core
 C. Amazon Kinesis Firehose
 D. Amazon S3
-
-Answer:
-C. Amazon Kinesis Firehose
+<details>
+  <summary>Answer</summary>
+  C. Amazon Kinesis Firehose
+</details>
 Scenario 22: Machine Learning Deployment
 
 Question:
@@ -262,9 +280,10 @@ A. Amazon SageMaker
 B. AWS Glue
 C. AWS Lambda
 D. Amazon Polly
-
-Answer:
-A. Amazon SageMaker
+<details>
+  <summary>Answer</summary>
+  A. Amazon SageMaker
+</details>
 Scenario 23: Cross-Account Access
 
 Question:
@@ -274,9 +293,10 @@ A. AWS IAM Roles
 B. AWS Organizations
 C. AWS Identity Federation
 D. AWS Cross-Account Access Manager
-
-Answer:
-A. AWS IAM Roles
+<details>
+  <summary>Answer</summary>
+  A. AWS IAM Roles
+</details>
 Scenario 24: High-Performance Storage
 
 Question:
@@ -286,10 +306,10 @@ A. Amazon S3
 B. Amazon EBS
 C. Amazon Glacier
 D. AWS Snowball Edge
-
-Answer:
-B. Amazon EBS
-
+<details>
+  <summary>Answer</summary>
+  B. Amazon EBS
+</details>
 Scenario 25: Content Distribution
 
 Question:
@@ -299,9 +319,10 @@ A. Amazon CloudFront
 B. Amazon Route 53
 C. Amazon S3
 D. AWS Global Accelerator
-
-Answer:
-A. Amazon CloudFront
+<details>
+  <summary>Answer</summary>
+  A. Amazon CloudFront
+</details>
 Scenario 26: Compliance and Encryption
 
 Question:
@@ -311,9 +332,10 @@ A. AWS Key Management Service (KMS)
 B. Amazon S3
 C. AWS Secrets Manager
 D. AWS CloudHSM
-
-Answer:
-C. AWS Secrets Manager
+<details>
+  <summary>Answer</summary>
+  C. AWS Secrets Manager
+</details>
 Scenario 27: Real-time Analytics
 
 Question:
@@ -323,9 +345,10 @@ A. Amazon DynamoDB
 B. AWS Lambda
 C. Amazon Kinesis Data Streams
 D. Amazon RDS
-
-Answer:
-C. Amazon Kinesis Data Streams
+<details>
+  <summary>Answer</summary>
+  C. Amazon Kinesis Data Streams
+</details>
 Scenario 28: Identity Federation
 
 Question:
@@ -335,9 +358,10 @@ A. AWS Identity and Access Management (IAM)
 B. Amazon Cognito
 C. AWS Single Sign-On (SSO)
 D. AWS Security Token Service (STS)
-
-Answer:
-C. AWS Single Sign-On (SSO)
+<details>
+  <summary>Answer</summary>
+  C. AWS Single Sign-On (SSO)
+</details>
 Scenario 29: Serverless API
 
 Question:
@@ -347,9 +371,10 @@ A. AWS API Gateway
 B. Amazon SQS
 C. AWS App Runner
 D. AWS Step Functions
-
-Answer:
-A. AWS API Gateway
+<details>
+  <summary>Answer</summary>
+  A. AWS API Gateway
+</details>
 Scenario 30: Data Transfer Acceleration
 
 Question:
@@ -359,10 +384,10 @@ A. Amazon S3 Transfer Acceleration
 B. AWS Snowball
 C. AWS Direct Connect
 D. Amazon Kinesis Firehose
-
-Answer:
-A. Amazon S3 Transfer Acceleration
-
+<details>
+  <summary>Answer</summary>
+  A. Amazon S3 Transfer Acceleration
+</details>
 Scenario 31: Edge Computing
 
 Question:
@@ -372,9 +397,10 @@ A. AWS Lambda@Edge
 B. Amazon CloudFront Functions
 C. AWS App Runner
 D. AWS Wavelength
-
-Answer:
-A. AWS Lambda@Edge
+<details>
+  <summary>Answer</summary>
+  A. AWS Lambda@Edge
+</details>
 Scenario 32: Data Archiving
 
 Question:
@@ -384,9 +410,10 @@ A. Amazon S3 Glacier
 B. Amazon EBS
 C. Amazon S3 Standard
 D. AWS Snowball
-
-Answer:
-A. Amazon S3 Glacier
+<details>
+  <summary>Answer</summary>
+  A. Amazon S3 Glacier
+</details>
 Scenario 33: Global Database
 
 Question:
@@ -396,9 +423,10 @@ A. Amazon RDS
 B. Amazon DynamoDB
 C. Amazon Aurora
 D. Amazon Neptune
-
-Answer:
-C. Amazon Aurora
+<details>
+  <summary>Answer</summary>
+  C. Amazon Aurora
+</details>
 Scenario 34: High-Performance Compute Clusters
 
 Question:
@@ -408,9 +436,10 @@ A. Amazon EC2 Spot Instances
 B. AWS Lambda
 C. Amazon EKS
 D. AWS ParallelCluster
-
-Answer:
-D. AWS ParallelCluster
+<details>
+  <summary>Answer</summary>
+  D. AWS ParallelCluster
+</details>
 Scenario 35: Automated Application Scaling
 
 Question:
@@ -420,9 +449,10 @@ A. Amazon ECS
 B. AWS Auto Scaling
 C. Amazon Elastic Beanstalk
 D. AWS Batch
-
-Answer:
-B. AWS Auto Scaling
+<details>
+  <summary>Answer</summary>
+  B. AWS Auto Scaling
+</details>
 Scenario 36: Multi-Tier Web Application
 
 Question:
@@ -432,11 +462,10 @@ A. AWS Elastic Beanstalk
 B. AWS CloudFormation
 C. AWS OpsWorks
 D. AWS CodeDeploy
-
-Answer:
-A. AWS Elastic Beanstalk
-
-
+<details>
+  <summary>Answer</summary>
+  A. AWS Elastic Beanstalk
+</details>
 Scenario 37: Real-Time Data Processing
 
 Question:
@@ -446,9 +475,10 @@ A. Amazon Kinesis Data Streams
 B. AWS Glue
 C. Amazon Redshift
 D. AWS Data Pipeline
-
-Answer:
-A. Amazon Kinesis Data Streams
+<details>
+  <summary>Answer</summary>
+  A. Amazon Kinesis Data Streams
+</details>
 Scenario 38: Hybrid Cloud Connectivity
 
 Question:
@@ -458,9 +488,10 @@ A. AWS VPN
 B. AWS Direct Connect
 C. Amazon VPC Peering
 D. AWS Transit Gateway
-
-Answer:
-B. AWS Direct Connect
+<details>
+  <summary>Answer</summary>
+  B. AWS Direct Connect
+</details>
 Scenario 39: Serverless Application Integration
 
 Question:
@@ -470,9 +501,10 @@ A. Amazon EC2
 B. AWS Lambda
 C. AWS Fargate
 D. Amazon ECS
-
-Answer:
-B. AWS Lambda
+<details>
+  <summary>Answer</summary>
+  B. AWS Lambda
+</details>
 Scenario 40: High-Performance Object Storage
 
 Question:
@@ -482,9 +514,10 @@ A. Amazon S3
 B. Amazon EBS
 C. Amazon Glacier
 D. Amazon Elastic File System (EFS)
-
-Answer:
-A. Amazon S3
+<details>
+  <summary>Answer</summary>
+  A. Amazon S3
+</details>
 Scenario 41: Application Load Balancing
 
 Question:
@@ -494,9 +527,10 @@ A. AWS Global Accelerator
 B. Amazon Route 53
 C. Elastic Load Balancer (ELB)
 D. Amazon CloudFront
-
-Answer:
-C. Elastic Load Balancer (ELB)
+<details>
+  <summary>Answer</summary>
+  C. Elastic Load Balancer (ELB)
+</details>
 Scenario 42: Cross-Region Data Replication
 
 Question:
@@ -506,10 +540,10 @@ A. Amazon Aurora
 B. Amazon S3 Cross-Region Replication
 C. AWS Database Migration Service (DMS)
 D. Amazon DynamoDB Global Tables
-
-Answer:
-B. Amazon S3 Cross-Region Replication
-
+<details>
+  <summary>Answer</summary>
+  B. Amazon S3 Cross-Region Replication
+</details>
 Scenario 43: Multi-Account Management
 
 Question:
@@ -519,9 +553,10 @@ A. AWS Organizations
 B. AWS Resource Access Manager (RAM)
 C. AWS Identity and Access Management (IAM)
 D. AWS Single Sign-On (SSO)
-
-Answer:
-A. AWS Organizations
+<details>
+  <summary>Answer</summary>
+  A. AWS Organizations
+</details>
 Scenario 44: Event-Driven Microservices
 
 Question:
@@ -531,9 +566,10 @@ A. Amazon Simple Notification Service (SNS)
 B. AWS Step Functions
 C. Amazon EventBridge
 D. AWS Lambda
-
-Answer:
-C. Amazon EventBridge
+<details>
+  <summary>Answer</summary>
+  C. Amazon EventBridge
+</details>
 Scenario 45: Code Deployment and Rollback
 
 Question:
@@ -543,43 +579,72 @@ A. AWS CodeDeploy
 B. AWS Elastic Beanstalk
 C. AWS OpsWorks
 D. AWS CloudFormation
-
-Answer:
-A. AWS CodeDeploy
-Scenario 46: Multi-AZ Relational Database
+<details>
+  <summary>Answer</summary>
+  A. AWS CodeDeploy
+</details>
+Scenario 46: Data Lake Architecture
 
 Question:
-Your organization requires a highly available relational database solution that spans multiple Availability Zones. Which AWS service provides automated backups, read replicas, and automatic failover in case of a primary database failure?
+Your organization is building a data lake to store and analyze vast amounts of raw data. Which AWS service provides a scalable and secure solution for building a data lake with analytics capabilities?
 
 A. Amazon RDS
-B. Amazon Aurora
-C. Amazon DynamoDB
-D. Amazon Redshift
-
-Answer:
-B. Amazon Aurora
-Scenario 47: Compliance Logging
-
-Question:
-Your organization must comply with industry regulations that require detailed logging of all API activity and resource changes. Which AWS service provides this functionality by recording AWS Management Console actions and API calls?
-
-A. AWS CloudWatch
-B. AWS CloudTrail
-C. Amazon CloudFront
-D. Amazon Inspector
-
-Answer:
-B. AWS CloudTrail
-Scenario 48: Application Secrets Management
+B. Amazon Redshift
+C. Amazon S3
+D. AWS Glue
+<details>
+  <summary>Answer</summary>
+  C. Amazon S3
+</details>
+Scenario 47: Security Assessment
 
 Question:
-Your team is building an application that requires secure storage and retrieval of sensitive information such as API keys and database passwords. Which AWS service is designed for centralized secrets management?
+Your organization is conducting a security assessment and needs a service that continuously monitors and analyzes AWS resources for security compliance. Which AWS service provides this functionality?
 
-A. AWS Key Management Service (KMS)
-B. AWS Secrets Manager
-C. AWS Identity and Access Management (IAM)
-D. AWS Certificate Manager (ACM)
+A. Amazon CloudWatch
+B. AWS Security Hub
+C. AWS Config
+D. AWS Shield
+<details>
+  <summary>Answer</summary>
+  C. AWS Config
+</details>
+Scenario 48: Video Processing
 
-Answer:
-B. AWS Secrets Manager
+Question:
+Your company is developing a video processing pipeline that requires scalable and cost-effective video transcoding. Which AWS service can you use to process video files and convert them into various formats?
 
+A. AWS Elemental MediaConvert
+B. Amazon Kinesis Video Streams
+C. AWS Elastic Transcoder
+D. Amazon Rekognition
+<details>
+  <summary>Answer</summary>
+  A. AWS Elemental MediaConvert
+</details>
+Scenario 49: Data Transfer Service
+
+Question:
+Your organization needs to transfer large volumes of data to AWS securely. Which AWS service can you use to send physical storage devices directly to an AWS data center for offline data transfer?
+
+A. Amazon S3 Transfer Acceleration
+B. AWS Snowball
+C. AWS Direct Connect
+D. Amazon Kinesis Firehose
+<details>
+  <summary>Answer</summary>
+  B. AWS Snowball
+</details>
+Scenario 50: Web Application Firewall
+
+Question:
+Your organization wants to protect its web applications from common web exploits and secure them against security threats. Which AWS service provides a managed Web Application Firewall (WAF) service?
+
+A. AWS Shield
+B. Amazon Route 53
+C. AWS WAF
+D. AWS Firewall Manager
+<details>
+  <summary>Answer</summary>
+  C. AWS WAF
+</details>

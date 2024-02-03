@@ -1,16 +1,18 @@
-Scenario 1: VPC and Network Design
+# Scenario 1: VPC and Network Design
 
-Question:
+**Question:**
 Your organization needs to design a highly available and secure architecture for a web application that spans multiple Availability Zones (AZs) in AWS. Which of the following AWS services would you use for distributing incoming traffic across multiple instances in different AZs?
 
-A. Amazon S3
-B. Amazon RDS
-C. Amazon CloudFront
+A. Amazon S3  
+B. Amazon RDS  
+C. Amazon CloudFront  
 D. Elastic Load Balancer (ELB)
+
 <details>
-  <summary>Answer</summary>
+  <summary>Answer:</summary>
   D. Elastic Load Balancer (ELB)
 </details>
+
 Scenario 2: Security and Compliance
 
 Question:
